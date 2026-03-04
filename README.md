@@ -2,8 +2,6 @@
 
 I am Yuechun Sun, an 18-year-old undergraduate at the School of the Gifted Young, University of Science and Technology of China, majoring in Data Science and Big Data Technology. I’m currently advised by Prof. Kexin Pei (University of Chicago). My research interests include Artificial Intelligence, Programming Language, and Inference.
 
-Website: Etha-Sun.github.io[Etha-Sun.github.io]
-
 <!--
 **Etha-Sun/Etha-Sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
